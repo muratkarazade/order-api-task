@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Commands\CarrierReport\CreateCarrierReport\" />
+    <Folder Include="Features\Commands\CarrierReport\DeleteCarrierReport\" />
+    <Folder Include="Features\Commands\CarrierReport\UpdateCarrierReport\" />
+    <Folder Include="MappingProfiles\CarrierReportMap\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECO.Domain\ECO.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

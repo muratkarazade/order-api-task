@@ -1,0 +1,17 @@
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.Domain.deps.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.Domain.runtimeconfig.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.Domain.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.Domain.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.EnvironmentConfiguration.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\bin\Debug\net6.0\ECO.EnvironmentConfiguration.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.csproj.AssemblyReference.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.AssemblyInfoInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.AssemblyInfo.cs
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.csproj.CopyComplete
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\refint\ECO.Domain.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ECO.Domain.genruntimeconfig.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.Domain\obj\Debug\net6.0\ref\ECO.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\bin\Debug\net6.0\ECO.EnvironmentConfiguration.deps.json
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\bin\Debug\net6.0\ECO.EnvironmentConfiguration.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\bin\Debug\net6.0\ECO.EnvironmentConfiguration.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.csproj.AssemblyReference.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.AssemblyInfoInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.AssemblyInfo.cs
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\refint\ECO.EnvironmentConfiguration.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ECO.EnvironmentConfiguration.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\ECO\Core\ECO.EnvironmentConfiguration\obj\Debug\net6.0\ref\ECO.EnvironmentConfiguration.dll
