@@ -14,6 +14,6 @@ namespace ECO.Application.Abstractions.Services
         Task<IResult> UpdateCarrierConfiguration(CarrierConfiguration carrierConfiguration);
         Task<IDataResult<List<CarrierConfiguration>>> GetAllCarrierConfiguration();
         Task<IResult> DeleteCarrierConfiguration(int id);
-        Task<Carrier> GetCarrierConfigurationById(int id);
+        Task<CarrierConfiguration> GetCarrierConfigurationById(int id);
     }
 }

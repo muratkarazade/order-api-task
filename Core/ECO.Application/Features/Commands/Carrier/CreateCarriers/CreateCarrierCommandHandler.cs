@@ -29,7 +29,7 @@ namespace ECO.Application.Features.Commands.Carrier.CreateCarriers
                 return new CreateCarrierCommandResponse { Success = false, Message = result.Message };
             }
 
-            return new CreateCarrierCommandResponse { Success = true, Message = result.Message, Data = result };
+            return new CreateCarrierCommandResponse { Success = true, Message = result.Message, Data = carrier };
         }
     }
 }

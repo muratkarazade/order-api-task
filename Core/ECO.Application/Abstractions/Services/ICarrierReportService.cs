@@ -13,7 +13,7 @@ namespace ECO.Application.Abstractions.Services
         Task<IResult> CreateCarrierReport(CarrierReport carrierReport);
         Task<IResult> UpdateCarrierReport(CarrierReport carrierReport);
         Task<IDataResult<List<CarrierReport>>> GetAllCarrierReport();
-        Task<IResult> DeleteCarrierReport(CarrierReport carrierReport);
-        Task<Carrier> GetCarrierReportById(int id);
+        Task<IResult> DeleteCarrierReport(int id);
+        Task<CarrierReport> GetCarrierReportById(int id);
     }
 }

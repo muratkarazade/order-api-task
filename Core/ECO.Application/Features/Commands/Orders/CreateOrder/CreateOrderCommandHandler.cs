@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using ECO.Application.Abstractions.Services;
 using ECO.Application.Dto.Order;
+using ECO.Application.Features.Commands.Orders.CreateOrder;
 using ECO.Domain.Entities;
 using MediatR;
 using System;
@@ -32,7 +33,13 @@ namespace ECO.Application.Features.Commands.Orders.CreateOrder
                 return new CreateOrderCommandResponse { Success = false, Message = result.Message };
             }
 
-            return new CreateOrderCommandResponse { Success = true, Message = result.Message, Data = result };
+            order = await _orderService.GetOrderById(order.Id);
+            return new CreateOrderCommandResponse { Success = true, Message = result.Message, Order = order, Result = result };
         }
+
+
     }
 }
+
+
+

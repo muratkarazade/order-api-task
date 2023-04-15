@@ -10,7 +10,7 @@ namespace ECO.Application.Features.Commands.Carrier.CreateCarriers
 {
     public class CreateCarrierCommandResponse : CommandBaseResponse
     {
-        public ECO.Domain.Entities.Carrier Carrier { get; set; }
-        public IResult Data { get; set; }
+        public ECO.Domain.Entities.Carrier Data { get; set; }
+       
     }
 }

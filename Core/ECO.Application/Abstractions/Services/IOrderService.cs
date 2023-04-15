@@ -1,4 +1,5 @@
-﻿using ECO.Application.Utilities.Result.Common;
+﻿using ECO.Application.Dto.CarrierConfiguration;
+using ECO.Application.Utilities.Result.Common;
 using ECO.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -15,5 +16,6 @@ namespace ECO.Application.Abstractions.Services
         Task<IDataResult<List<Order>>> GetAllOrders();
         Task<IResult> DeleteOrder(Order order);
         Task<Order> GetOrderById(int id);
+        Task<CarrierConfigurationData> GetCarrierConfigurationData(int orderDesi);
     }
 }

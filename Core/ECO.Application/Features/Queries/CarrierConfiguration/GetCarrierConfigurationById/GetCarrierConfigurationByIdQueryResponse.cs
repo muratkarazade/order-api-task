@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ECO.Application.Features.Queries.CarrierConfiguration.GetCarrierConfigurationById
 {
-    internal class GetCarrierConfigurationByIdQueryResponse
+    public class GetCarrierConfigurationByIdQueryResponse
     {
+        public bool Success { get; set; }
+        public string Message { get; set; }
+        public Domain.Entities.CarrierConfiguration CarrierConfiguration { get; set; }
     }
 }

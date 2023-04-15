@@ -12,6 +12,6 @@ namespace ECO.Application.Features.Commands.Orders.CreateOrder
     public class CreateOrderCommandResponse : CommandBaseResponse
     {
         public Order Order { get; set; }
-        public IResult Data { get; set; }
+        public IResult Result { get; set; }
     }
 }

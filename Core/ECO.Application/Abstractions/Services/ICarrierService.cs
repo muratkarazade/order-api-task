@@ -15,5 +15,7 @@ namespace ECO.Application.Abstractions.Services
         Task<IDataResult<List<Carrier>>> GetAllCarrier();
         Task<IResult> DeleteCarrier(int id);
         Task<Carrier> GetCarrierById(int id);
+        Task<Carrier> GetCarrierByDesi(int desi);
+        Task<Carrier> GetClosestCarrierByDesi(int desi);
     }
 }

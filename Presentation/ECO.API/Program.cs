@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Reflection;
 using ECO.Domain.Entities;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,9 +23,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddPersistenceServices();
 builder.Services.AddApplicationServices();
 builder.Services.AddScoped<IOrderService, OrderService>();
-
-
-
+builder.Services.AddScoped<ICarrierService, CarrierService>();
+builder.Services.AddTransient<ICarrierConfigurationService, CarrierConfigurationService>();
 
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 

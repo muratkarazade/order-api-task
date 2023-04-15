@@ -12,7 +12,7 @@ namespace ECO.Application.Features.Commands.CarrierConfiguration.UpdateCarrierCo
     {
         public UpdateCarrierConfigurationDto CarrierConfiguration { get; set; }
 
-        public UpdateCarrierConfigurationCommandRequest(UpdateCarrierConfigurationDto carrierConfiguration)
+        public UpdateCarrierConfigurationCommandRequest(int id,UpdateCarrierConfigurationDto carrierConfiguration)
         {
             CarrierConfiguration = carrierConfiguration;
         }

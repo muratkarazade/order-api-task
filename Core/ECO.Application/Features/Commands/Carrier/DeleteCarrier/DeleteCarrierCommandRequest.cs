@@ -10,7 +10,10 @@ namespace ECO.Application.Features.Commands.Carrier.DeleteCarrier
     public class DeleteCarrierCommandRequest : IRequest<DeleteCarrierCommandResponse>
     {
         public int Id { get; set; }
-
+        public DeleteCarrierCommandRequest()
+        {
+            
+        }
         public DeleteCarrierCommandRequest(int id)
         {
             Id = id;

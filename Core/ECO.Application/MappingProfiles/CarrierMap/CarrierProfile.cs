@@ -34,6 +34,7 @@ namespace ECO.Application.MappingProfiles.CarrierMap
             CreateMap<GetCarrierByIdQueryRequest, Carrier>().ReverseMap();
             CreateMap<Carrier, GetCarrierByIdQueryResponse>().ReverseMap();
 
+            CreateMap<GetCarrierDto, Carrier>().ReverseMap();
             CreateMap<CreateCarrierDto, Carrier>().ReverseMap();
             CreateMap<UpdateCarrierDto, Carrier>().ReverseMap();
         }
